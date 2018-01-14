@@ -1,6 +1,6 @@
 Welcome to the JSP-INSERT-MYSQL-DB wiki!
-
-`* form:
+* form:
+`
 <%@ page import="java.sql.*"%>
 <%@ page import="java.io.*" %>
 <%@ page import="javax.servlet.*"%>
